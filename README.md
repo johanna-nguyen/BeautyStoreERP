@@ -1,0 +1,24 @@
+#Beauty Store ERP
+
+Beauty Store ERP is a desktop application for managing a cosmetic store.
+It allows store owners to handle products, suppliers, employees, sales, and inventory efficiently.
+
+#Features
+
+- Product Management: add, update, delete products; manage categories and stock.
+
+- Supplier Management: manage suppliers and their contact information.
+
+- Employee Management: manage staff accounts and roles.
+
+- Sales & Inventory: record sales, calculate totals, update stock, prevent out-of-stock sales.
+
+- Data Export: export reports to Excel or CSV.
+
+#Technologies
+
+- Python (application logic)
+
+- MySQL (database)
+
+- Tkinter (GUI)
